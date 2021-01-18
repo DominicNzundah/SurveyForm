@@ -12,4 +12,11 @@ form{
 width:550px;
 height : 950px;
 }
+img{opacity:0.3;}
+.bg{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
