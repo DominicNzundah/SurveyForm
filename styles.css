@@ -19,5 +19,12 @@ img{opacity:0.2;}
   background-size: cover;
   
 }
+h1,h5{
+color:white
+font-family: Verdana;
+font-size:18px;
+text-align:center;
+background-color:gray;
+}
 
 
