@@ -1,1 +1,15 @@
+body{
+background-image:url("https://www.howwemadeitinafrica.com/wp-content/uploads/2019/01/database-computer-coding.jpg");
+background-color: rgba(60,180,235,0.3);
+}
+button {
+background-color: rgb(15,250,60);
+color :white;
+width:auto;
+height:20px;
+}
+form{
+width:550px;
+height : 950px;
+}
 
